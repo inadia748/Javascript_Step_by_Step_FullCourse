@@ -1,0 +1,15 @@
+DOM is Document object model.
+
+console.log(window.document); // shows you doument object
+console.dir(window.document);
+
+
+
+
+1. DOM
+2. document object model
+3. overview
+4. how to use
+5. deep to study.
+
+

@@ -1,0 +1,9 @@
+What is events?
+when a user click a button, it performs an action. This is an event.
+When a user press a button, it performs an action. This is also an event.
+When a user hovers oven an element, it is also an event.
+
+Most commonly used are mouse events, click events and input events.
+
+See this webpage to understand them,
+https://developer.mozilla.org/en-US/docs/Web/Events

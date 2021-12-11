@@ -1,0 +1,27 @@
+Rules for naming variables
+
+1. You cannot start a variable name with a number:
+    example:-
+    1value, it is invalid
+    value1, it is valid
+
+
+
+2. you can use only underscore '_' or dollar '$' symbol. 
+example:
+    first_name (valid)
+    _firstname (valid)
+    first$name (valid)
+    $firstname (valid)
+
+
+
+
+3. You cannot use spaces
+example:
+    first name (invalid)
+
+
+
+4. Convention
+    start with small letter and use camelCase.
